@@ -10,7 +10,7 @@
 ## 效果展示
 
 <p align="center">
-  <img width="300px" height="533px" src="assets/preview.gif">
+  <img width="300px" height="533px" src="assets/preview.gif" />
 </p>
 
 ## 使用方法
@@ -82,8 +82,8 @@
 作者是一名大二学生，如果觉得我写得不错，不如请我喝杯咖啡吧 ☕️
 
 <p align="center">
-  <img width="200px" height="270px" src="assets/alipay.jpg">
-  <img width="200px" height="300px" src="assets/wechat-pay.jpg">
+  <img width="200px" height="270px" src="assets/wechat-pay.jpg" hspace="110px" />
+  <img width="200px" height="300px" src="assets/alipay.jpg" />
 </p>
 
 ## License
