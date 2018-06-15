@@ -82,8 +82,8 @@
 作者是一名大二学生，如果觉得我写得不错，不如请我喝杯咖啡吧 ☕️
 
 <p align="center">
-  <img width="200px" height="270px" src="assets/wechat-pay.jpg" hspace="110px" />
-  <img width="200px" height="300px" src="assets/alipay.jpg" />
+  <img width="200px" height="270px" src="assets/wechat-pay.jpg" hspace="50px" />
+  <img width="200px" height="300px" src="assets/alipay.jpg" hspace="50px" />
 </p>
 
 ## License
