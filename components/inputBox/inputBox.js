@@ -13,8 +13,8 @@ Component({
       value: ''
     },
     maxlength: {
-      type: String,
-      value: '140'
+      type: Number,
+      value: 10
     }
   },
 
