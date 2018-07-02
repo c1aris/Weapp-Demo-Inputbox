@@ -75,6 +75,6 @@ Component({
     },
 
     // 捕获背景的点击事件以防止冒泡
-    tapCatcher: function () { },
+    tapCatcher: function () { }
   }
 })
