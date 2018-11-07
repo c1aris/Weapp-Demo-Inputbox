@@ -1,8 +1,8 @@
 # Weapp-Demo-Inputbox
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Language](https://img.shields.io/badge/Javascript-ES6-orange.svg)](https://www.javascript.com/)
-![Github All Releases](https://img.shields.io/github/downloads/goolhanrry/Weapp-Demo-Inputbox/total.svg)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Language](https://img.shields.io/badge/javascript-ES6-orange.svg)](https://www.javascript.com/)
+[![GitHub last commit](https://img.shields.io/github/last-commit/goolhanrry/Weapp-Demo-Inputbox.svg)](https://github.com/goolhanrry/Weapp-Demo-Inputbox/commits/master)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/goolhanrry/Weapp-Demo-Inputbox.svg?colorB=fa5b19)](https://github.com/goolhanrry/Weapp-Demo-Inputbox)
 
 最近开发微信小程序的过程中需要用到弹出输入框的功能，但是官方并没有提供相关的组件，索性自己模仿原生的样式和动画写了一个，内部布局和配色都是一点一点慢慢调的，动画部分采用 CSS 动画实现，力求与原生组件完美契合
