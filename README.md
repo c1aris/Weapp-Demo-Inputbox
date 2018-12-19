@@ -10,7 +10,7 @@
 ## 效果展示
 
 <p align="center">
-  <img width="300px" height="533px" src="assets/preview.gif" />
+  <img width="300" src="assets/preview.gif" />
 </p>
 
 ## 使用方法
@@ -82,12 +82,12 @@
 作者是一名大二学生，如果觉得我写得不错，不如请我喝杯咖啡吧 ☕️
 
 <p align="center">
-  <img width="200px" height="270px" src="assets/wechat-pay.jpg" hspace="50px" />
-  <img width="200px" height="300px" src="assets/alipay.jpg" hspace="50px" />
+  <img width="200" src="assets/wechat-pay.jpg" hspace="50px" />
+  <img width="200" src="assets/alipay.jpg" hspace="50px" />
 </p>
 
 ## License
 
 [MIT License](LICENSE)
 
-Copyright (c) 2018 goolhanrry
+Copyright (c) 2019 goolhanrry
