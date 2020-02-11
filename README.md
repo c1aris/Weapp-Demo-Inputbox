@@ -2,8 +2,8 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Language](https://img.shields.io/badge/javascript-ES6-orange.svg)](https://www.javascript.com/)
-[![GitHub last commit](https://img.shields.io/github/last-commit/goolhanrry/Weapp-Demo-Inputbox.svg)](https://github.com/goolhanrry/Weapp-Demo-Inputbox/commits/master)
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/goolhanrry/Weapp-Demo-Inputbox.svg?colorB=fa5b19)](https://github.com/goolhanrry/Weapp-Demo-Inputbox)
+[![GitHub last commit](https://img.shields.io/github/last-commit/c1aris/Weapp-Demo-Inputbox.svg)](https://github.com/c1aris/Weapp-Demo-Inputbox/commits/master)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/c1aris/Weapp-Demo-Inputbox.svg?colorB=fa5b19)](https://github.com/c1aris/Weapp-Demo-Inputbox)
 
 最近开发微信小程序的过程中需要用到弹出输入框的功能，但是官方并没有提供相关的组件，索性自己模仿原生的样式和动画写了一个，内部布局和配色都是一点一点慢慢调的，动画部分采用 CSS 动画实现，力求与原生组件完美契合
 
@@ -17,8 +17,8 @@
 
 * 首先点击右上角 `🌟Star` ʕ •ᴥ•ʔ
 * 获取组件代码
-    * 执行 `git clone https://github.com/goolhanrry/Weapp-Demo-Inputbox.git`
-    * 或 [点击此处](https://github.com/goolhanrry/Weapp-Demo-Inputbox/releases) 下载最新版本的代码
+    * 执行 `git clone https://github.com/c1aris/Weapp-Demo-Inputbox.git`
+    * 或 [点击此处](https://github.com/c1aris/Weapp-Demo-Inputbox/releases) 下载最新版本的代码
 * 解压后将 `components/inputBox` 文件夹复制到目标工程的 `components` 文件夹内（若不存在则在根目录创建一个）
 * 配置页面设置：在需要使用该组件的页面的 `xxx.json` 文件中添加如下字段：
 
@@ -77,17 +77,8 @@
 └── project.config.json             工具配置
 ```
 
-## 捐赠
-
-作者是一名大二学生，如果觉得我写得不错，不如请我喝杯咖啡吧 ☕️
-
-<p align="center">
-  <img width="200" src="assets/wechat-pay.jpg" hspace="50px" />
-  <img width="200" src="assets/alipay.jpg" hspace="50px" />
-</p>
-
 ## License
 
 [MIT License](LICENSE)
 
-Copyright (c) 2019 goolhanrry
+Copyright (c) 2019 c1aris
